@@ -86,8 +86,8 @@ system_node_install() {
   sleep 2
   sudo timedatectl set-timezone America/Sao_Paulo
   sleep 2
-  sudo -u postgres psql -c "ALTER USER postgres PASSWORD '2000@23';"
-  sudo -u postgres psql -c "CREATE DATABASE torresticketautomatizaai;"
+  sudo -u postgres psql -c "ALTER USER postgres PASSWORD 'Ap10283012';"
+  sudo -u postgres psql -c "CREATE DATABASE torresticket;"
   exit
 EOF
 
