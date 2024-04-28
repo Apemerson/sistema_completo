@@ -1,0 +1,8 @@
+deploy_password=10283012=
+mysql_root_password=10283012=
+db_pass=10283012=
+jwt_secret=uSd9mHPXnSxrgZ8Co
+jwt_refresh_secret=uSd9mHPXnSxrgZ8Co
+deploy_email=deploy@torresticket.com.br
+db_user=root
+db_name=torresticket
