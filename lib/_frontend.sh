@@ -275,7 +275,7 @@ backend_restart_pm2() {
   sudo su - deploy <<EOF
     cd /home/deploy/torresticket/backend
     pm2 stop all
-    sudo rm -rf /root/torresticket-Saas-Completo
+    sudo rm -rf /root/sistema_completo
 EOF
 
   sleep 2
