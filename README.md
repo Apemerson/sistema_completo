@@ -1,6 +1,4 @@
-<h1>Torresticket </h1>
-
-## 🚀 Whaticket Plus
+## 🚀 Torresticket
 
 Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, que permite multiusuários na mesma conta do WhatsApp. Com integração ao DialogFlow, N8N, Typebot, WebHooks, Facebook e Instagram.
 
