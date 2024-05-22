@@ -1,5 +1,38 @@
 <h1>Torresticket </h1>
 
+## 🚀 Whaticket Plus
+
+Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, que permite multiusuários na mesma conta do WhatsApp. Com integração ao DialogFlow, N8N, Typebot, WebHooks, Facebook e Instagram.
+
+<br /><br />
+
+## 📌 Integrações
+
+<img src="https://i.postimg.cc/CxJmZYZk/Group-26.png" />
+
+<br /><br />
+
+## 🔧 Requisitos
+
+<img src="https://i.postimg.cc/kGRpDYJC/Group-27.png" style="height: 250px;" />
+
+<nav>
+  <ul>
+    <li>Subdomínio para Frontend: https://app.nomedoseudominio.com</li>
+    <li>Subdomínio para API (Backend): https://api.nomedoseudominio.com</li>
+  </ul>
+</nav>
+
+<br /><br />
+
+## 💿 Instalação
+
+```bash
+  apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf WhaticketPlus && sudo git clone https://github.com/DEV7Kadu/WhaticketPlus && cd WhaticketPlus && sudo chmod +x ./whaticketplus && ./whaticketplus
+```
+
+<br /><br />
+
 <h3>Instalação</h3>
 
 <p>Ubuntu 20.04</p>
@@ -46,38 +79,7 @@
 
 <img src="https://i.imgur.com/YOM5F41.png" />
 
-## 🚀 Whaticket Plus
 
-Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, que permite multiusuários na mesma conta do WhatsApp. Com integração ao DialogFlow, N8N, Typebot, WebHooks, Facebook e Instagram.
-
-<br /><br />
-
-## 📌 Integrações
-
-<img src="https://i.postimg.cc/CxJmZYZk/Group-26.png" />
-
-<br /><br />
-
-## 🔧 Requisitos
-
-<img src="https://i.postimg.cc/kGRpDYJC/Group-27.png" style="height: 250px;" />
-
-<nav>
-  <ul>
-    <li>Subdomínio para Frontend: https://app.nomedoseudominio.com</li>
-    <li>Subdomínio para API (Backend): https://api.nomedoseudominio.com</li>
-  </ul>
-</nav>
-
-<br /><br />
-
-## 💿 Instalação
-
-```bash
-  apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf WhaticketPlus && sudo git clone https://github.com/DEV7Kadu/WhaticketPlus && cd WhaticketPlus && sudo chmod +x ./whaticketplus && ./whaticketplus
-```
-
-<br /><br />
 
 ## ✅ Recursos
 
