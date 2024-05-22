@@ -28,7 +28,7 @@ Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, qu
 ## 💿 Instalação
 
 ```bash
-  apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf WhaticketPlus && sudo git clone https://github.com/DEV7Kadu/WhaticketPlus && cd WhaticketPlus && sudo chmod +x ./whaticketplus && ./whaticketplus
+  apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf sistema_completo && sudo git clone https://github.com/Apemerson/sistema_completo.git && cd sistema_completo && sudo chmod +x ./torresticket && ./torresticket
 ```
 
 <br /><br />
