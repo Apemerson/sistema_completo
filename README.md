@@ -73,7 +73,6 @@ Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, qu
 🟢 Modo Claro/Escuro    
 🟢 Cores Personalizadas  
 🟢 Logotipo/Marca Própria  
-🟢 Aplicativo PWA  
 🟢 Domínio Próprio  
 🟢 Cores Personalizadas  
 🟢 Logotipo / Marca Própria  
