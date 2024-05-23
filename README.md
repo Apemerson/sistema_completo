@@ -4,6 +4,9 @@ Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, qu
 
 <br /><br />
 
+<img src="https://i.imgur.com/hARjiKt.png" />
+
+
 ## 📌 Integrações
 
 <img src="https://i.postimg.cc/CxJmZYZk/Group-26.png" />
@@ -61,7 +64,6 @@ Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, qu
 - Listar Agendamento ✅
 - Excluir Agendamento ✅
 
-<img src="https://i.imgur.com/hARjiKt.png" />
 
 
 
