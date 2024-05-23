@@ -29,6 +29,8 @@ Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, qu
   apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf sistema_completo && sudo git clone https://github.com/Apemerson/sistema_completo.git && cd sistema_completo && sudo chmod +x ./torresticket && ./torresticket
 ```
 
+
+
 ## Principais Funcionalidades
 
 - 🔊 <strong>Transcrever Áudios:<strong> Converta áudios recebidos em texto.<br><br>
@@ -59,7 +61,7 @@ Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, qu
 - Listar Agendamento ✅
 - Excluir Agendamento ✅
 
-<img src="https://imgur.com/a/NUGTNsq" />
+<img src="https://i.imgur.com/hARjiKt.png" />
 
 
 
