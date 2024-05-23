@@ -6,6 +6,7 @@ Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, qu
 
 <img src="https://i.imgur.com/hARjiKt.png" />
 
+<br /><br />
 
 ## 📌 Integrações
 
@@ -32,7 +33,6 @@ Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, qu
   apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf sistema_completo && sudo git clone https://github.com/Apemerson/sistema_completo.git && cd sistema_completo && sudo chmod +x ./torresticket && ./torresticket
 ```
 <br /><br />
-
 
 ## Principais Funcionalidades
 
@@ -144,4 +144,4 @@ Codigo baseado no Whaticket Community de:
 
 ## 📭 Suporte e Contato
 
-Entre em contato através do <a href="https://wa.me/5551992919891" target="_blank">Whatsapp</a> ou <a href="mailto:whaticketplus@gmail.com" target="_blank">E-mail</a>.
+Entre em contato através do <a href="https://wa.me/5543996494382" target="_blank">Whatsapp</a> ou <a href="mailto:apemerson@gmail.com" target="_blank">E-mail</a>.
