@@ -1,12 +1,13 @@
+<img src="https://i.imgur.com/hARjiKt.png" />
+
+<br /><br />
 ## 🚀 Torresticket
 
 Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, que permite multiusuários na mesma conta do WhatsApp. Com integração ao DialogFlow, N8N, Typebot, WebHooks, Facebook e Instagram.
 
 <br /><br />
 
-<img src="https://i.imgur.com/hARjiKt.png" />
 
-<br /><br />
 
 ## 📌 Integrações
 
