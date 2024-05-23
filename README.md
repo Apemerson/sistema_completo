@@ -29,22 +29,6 @@ Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, qu
   apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf sistema_completo && sudo git clone https://github.com/Apemerson/sistema_completo.git && cd sistema_completo && sudo chmod +x ./torresticket && ./torresticket
 ```
 
-<br /><br />
-
-<h3>Instalação</h3>
-
-<p>Ubuntu 20.04</p>
-<p>Debian 11</p>
-
-<code>apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf sistema_completo && sudo git clone https://github.com/Apemerson/sistema_completo.git && cd sistema_completo && sudo chmod +x ./torresticket && ./torresticket</code><br />
-&nbsp;</p>
-
-<h3>Whatsapp Suporte: +55 (43) 99649-4382<h3>
-
-<h3>Seja um revendedor desse sistema chame no Whatsapp: +55 (43) 99649-4382>
-
-<br/>
-
 ## Principais Funcionalidades
 
 - 🔊 <strong>Transcrever Áudios:<strong> Converta áudios recebidos em texto.<br><br>
@@ -75,7 +59,7 @@ Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, qu
 - Listar Agendamento ✅
 - Excluir Agendamento ✅
 
-<img src="https://i.imgur.com/YOM5F41.png" />
+<img src="https://imgur.com/a/NUGTNsq" />
 
 
 
